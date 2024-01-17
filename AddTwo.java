@@ -1,8 +1,9 @@
-/*
- * Adds two given integers and prints the result in a fancy way.
- */
+package HomeWork1;
 public class AddTwo {
-	public static void main(String[] args) {
-		// Put your code here	
-	}
+    public static void main(String[] args) {
+        int Number1= Integer.parseInt(args[0]);
+        int Number2=Integer.parseInt(args[1]);
+        int Addition= Number1+Number2;
+        System.err.println(Number1 + " + " + Number2 + " = " + Addition); 
+    }
 }
