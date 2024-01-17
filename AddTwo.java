@@ -1,4 +1,3 @@
-package HomeWork1;
 public class AddTwo {
     public static void main(String[] args) {
         int Number1= Integer.parseInt(args[0]);
