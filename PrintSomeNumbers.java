@@ -1,4 +1,3 @@
-package HomeWork1;
 public class PrintSomeNumbers {
      public static void main(String[] args) {
         // Declares an integer variable and sets it to 0
