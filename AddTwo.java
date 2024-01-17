@@ -3,6 +3,6 @@ public class AddTwo {
         int Number1= Integer.parseInt(args[0]);
         int Number2=Integer.parseInt(args[1]);
         int Addition= Number1+Number2;
-        System.err.println(Number1 + " + " + Number2 + " = " + Addition); 
+        System.out.println(Number1 + " + " + Number2 + " = " + Addition); 
     }
 }
