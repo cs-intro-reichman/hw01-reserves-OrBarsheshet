@@ -18,6 +18,5 @@ public class GenThree {
 		int smallestnum =Math.min(smallnum, x3);
 
         System.out.println("The minimal generated number was " + smallestnum);
- 
 	}
 }
